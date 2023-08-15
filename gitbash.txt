@@ -1,2 +1,6 @@
 hello github tis file was made from git bash
+<<<<<<< HEAD
 this is my third correction on this file
+=======
+this is from my second branch
+>>>>>>> zeus
